@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FBD3E9&height=150&animation=fadeIn&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=45&duration=3500&pause=3&color=FFB6C1&center=false&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Welcome+to+Jo+Jin+Ho's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA07A&height=150&animation=fadeIn&section=header)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=45&duration=3500&pause=3&color=FF8C00&center=false&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Welcome+to+Jo+Jin+Ho's+GitHub!👋)](https://git.io/typing-svg)
 
 
 <h2 align="center"> ✨ Front-end Stack ✨ </h2>
